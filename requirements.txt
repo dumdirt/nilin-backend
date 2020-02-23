@@ -1,0 +1,7 @@
+discord_webhook
+pytumblr
+textgenrnn
+oauth
+oauth2
+tensorflow
+keras

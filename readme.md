@@ -7,4 +7,8 @@
 
 Install Python modules with pip or preffered installer.
 
-idk rest is simple, get api key and stuff from tumblr.
+train dataset either using google collab or locally or at your server.
+searching for textgenrnn on a search engine would be more helpful.
+
+**The Frontend**
+https://github.com/dumdirt/nilin-frontend
